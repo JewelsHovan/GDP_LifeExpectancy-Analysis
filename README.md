@@ -1,7 +1,3 @@
-Sure! Below is a README file structured like a mini blog post for your GitHub project:
-
----
-
 # GDP and Life Expectancy Analysis
 
 ## Introduction
